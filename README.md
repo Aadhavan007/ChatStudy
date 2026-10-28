@@ -85,9 +85,9 @@ print("Server date and time:",data)
 s.send("Acknowledgement Received".encode())
 s.close()
 
-print()
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b87582f7-5386-443b-b6de-7ecc36d43a14" />
-print()
+
 
 Server Program:
 import socket
@@ -99,9 +99,9 @@ print("Server date and time:",data)
 s.send("Acknowledgement Received".encode())
 s.close()
 
-print()
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fffcaa2e-36c1-41d4-a1cc-7b54464a165d" />
-print()
+
 
 
 
